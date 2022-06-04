@@ -9,3 +9,8 @@ open terminal (in mac)
 
 type --->"jupyter notebook"
 -----------------------------------------
+
+Download all kinds of data from 
+
+https://www.kaggle.com/
+
